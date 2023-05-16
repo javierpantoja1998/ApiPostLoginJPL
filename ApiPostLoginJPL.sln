@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPostLoginJPL", "ApiPostLoginJPL\ApiPostLoginJPL.csproj", "{226C3663-827C-4498-B8D8-E3F5D347AE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226C3663-827C-4498-B8D8-E3F5D347AE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226C3663-827C-4498-B8D8-E3F5D347AE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226C3663-827C-4498-B8D8-E3F5D347AE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226C3663-827C-4498-B8D8-E3F5D347AE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6CEE5D-7157-4052-9A94-BC835478C1BC}
+	EndGlobalSection
+EndGlobal
